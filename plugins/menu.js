@@ -85,10 +85,10 @@ How to Add XP:
 ╠➥ ${_p} kick @Member
 ╠➥ ${_p} grouplist
 ║
-╠═〘 EXPERIMENTAL 〙 ═
-╠➥ ${_p}jadibot [login code if any / empty]
-╠➥ ${_p}berhenti
-╠➥ ${_p}getcode
+╠═〘 INFO 〙 ═
+╠➥ ${_p}info
+
+
 ║
 ╠═〘 OWNER 〙 ═
 ╠➥ ${_p}bcgc <teks>
@@ -100,7 +100,7 @@ How to Add XP:
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
 ╠➥ Instagram: https://instagram.com/__mr_ravanan?igshid=1pnrvego2ur69
-╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/c/MMrRavan
+╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/c/MrRavanan
 ║
 ╠═〘 Info Bot 〙 ═
 ╠➥ Name : കണ്ണാപി ബോട്ട് 2.0
