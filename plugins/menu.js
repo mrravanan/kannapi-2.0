@@ -75,15 +75,15 @@ How to Add XP:
 ╠➥ ${_p}modApk
 ║
 ╠═〘 Group 〙 ═
-╠➥ ${_p} add [62xxxxxxxxx]
-╠➥ ${_p} promote [@tagmember]
-╠➥ ${_p} demote [@tagadmin]
-╠➥ ${_p} linkgrup
-╠➥ ${_p} pengumuman [text]
-╠➥ ${_p} hidetag [text]
-╠➥ ${_p} listonline
-╠➥ ${_p} kick @Member
-╠➥ ${_p} grouplist
+╠➥ ${_p}add[62xxxxxxxxx]
+╠➥ ${_p}promote [@tagmember]
+╠➥ ${_p}demote [@tagadmin]
+╠➥ ${_p}linkgrup
+╠➥ ${_p}pengumuman [text]
+╠➥ ${_p}hidetag [text]
+╠➥ ${_p}listonline
+╠➥ ${_p}kick @Member
+╠➥ ${_p}grouplist
 ║
 ╠═〘 INFO 〙 ═
 ╠➥ ${_p}info
