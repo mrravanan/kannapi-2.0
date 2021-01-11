@@ -5,7 +5,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Rec: ʀᴀɴᴊɪᴛʜ [ᴍʀ.ʀᴀᴠᴀɴᴀɴ]
 ╠➥ Script: ᴍʀ.ʀᴀᴠᴀɴᴀɴ
 ║
-╠➥ YouTube: https://youtube.com/c/MMrRavan
+╠➥ YouTube: https://youtube.com/c/MrRavanan
 ╠➥ instagram: https://instagram.com/__mr_ravanan?igshid=9opwnwh7xvtm
 ╠➥ YouTube 2nd channel : https://youtube.com/channel/UChVky9HwaivYVdQRMCrM9Ig
 ║
@@ -27,9 +27,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠═〘 ബോട്ട്  〙 ═
 ╠➥ MAKE GROUP ADMIN 
 ╠➥ TURN ON YOUR DATA
-╠➥ CONTACT : wa. me//+919048410619
+╠➥ CONTACT : wa.me//+919048410619
 ║
-║>Request? wa. me//+919048410619
+║>Request? wa.me//+919048410619
 ║
 ╠═〘 കണ്ണാപി 2.0 〙 ═
 `.trim(), m)
