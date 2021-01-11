@@ -1,4 +1,4 @@
-# NfQ-BoT
+# Kannapi-2.0 - bot
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
