@@ -1,6 +1,6 @@
 let handler = async (m, { conn, args }) => {
   let users = args.join` `.split`,`.map(v => v.replace(/\D/g, '') + '@s.whatsapp.net').filter(v => v.length > 20)
-  for (let user of users) conn.groupAdd(m.chat, user)
+  conn.groupAdd(m.chat, users)
 }
 handler.command = /^(add|\+)$/i
 handler.owner = false
@@ -15,4 +15,22 @@ handler.botAdmin = true
 handler.fail = null
 
 module.exports = handler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
